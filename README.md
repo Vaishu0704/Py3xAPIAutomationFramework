@@ -10,6 +10,9 @@
 - Parallel Execution - x distribute (xdist)
 - Allure Report
 - Screenshot 2024-08-05 at 08 19 43
+### Allure Report
+
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/c7ac7a1a-90db-4689-858f-eaa29c97307c">
 
 ### How to Install Packages
  pip install requests pytest pytest-html faker allure-pytest jsonschema
